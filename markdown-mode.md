@@ -1,4 +1,4 @@
 # markdown-mode
 
-Emacs §Œ markdown-mode §¿°£
+Emacs „Åß markdown-mode „Çí„Åã„Åè
 
