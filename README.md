@@ -1,10 +1,11 @@
-# merapano.github.io
+# 2019-06-24
 
 これは
-ぼくの github につくった
+ぼく [[merapano]] 
+ github につくった
 page です。
 やはり
-`skk` では markdown-mode
+`[[skk]]` では [[markdown-mode]]
 はだめだ。
 
 ここに直接書くこともできるんだぁ。
@@ -21,3 +22,6 @@ page です。
         (apply this-func args)))
      (advice-add #'markdown-enter-key 
 	   :around #'my--markdown-entery-key-ad)
+
+
+## 
