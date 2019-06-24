@@ -1,10 +1,12 @@
 # merapano.github.io
 
-�����
-�ܤ��� github �ˤĤ��ä�
-page �Ǥ���
-��Ϥ�
-`skk` �Ǥ� markdown-mode
-�Ϥ������
+これは
+ぼくの github につくった
+page です。
+やはり
+`skk` では markdown-mode
+はだめだ。
+
+ここに直接書くこともできるんだぁ。
 
 
