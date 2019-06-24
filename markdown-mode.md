@@ -1,4 +1,5 @@
+<!-- -*- coding: utf-8; mode: markdown -*- -->
 # markdown-mode
 
-Emacs §Œ markdown-mode §¿°£
+Emacs „ÅÆ markdown-mode „Å†„ÄÇ
 
