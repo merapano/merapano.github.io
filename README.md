@@ -9,7 +9,7 @@
 これは
 ぼく [[merapano]] が
 github につくった
-page です。
+[[pages]] です。
 
 ## さぁて・・・
 
