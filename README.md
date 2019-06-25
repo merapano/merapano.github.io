@@ -10,6 +10,19 @@
 これはめんどうくさい。
 [[pages][pages]] はどうなのだろう。
 
+この記法 (``[['' ``]]'') はどうやら
+WikiLink と呼ばれ、
+multimarkdown にとりいれられているようだ。
+しかし、
+github pages では
+multimarkdown は
+（あるいは WikiLink は）
+サポートされていないようだ。
+
+jekyll が multimarkdonw を
+markdown にトランスレートしてくれると
+一番よいのだが、
+それはできないようだ。
 
 # 2019-06-24
 
