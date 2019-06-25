@@ -8,6 +8,8 @@
 ふつうの markdown ならば
 [pages](pages.html) となる。
 これはめんどうくさい。
+[[pages][pages.html]] はどうなのだろう。
+
 
 # 2019-06-24
 
