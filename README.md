@@ -1,7 +1,7 @@
 # merapano.github.io
 
 これは
-ぼくの github につくった
+ぼく [[(merapano]] の github につくった
 page です。
 やはり
 `skk` では markdown-mode
