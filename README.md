@@ -15,7 +15,7 @@ page です。
 ふつうの markdown ならば
 [pages](pages.html) となる。
 これはめんどうくさい。
-[[pages][pages]] はどうなのだろう。
+[pages](pages)はどうなのだろう。
 
 この記法 (``[['' ``]]'') はどうやら
 WikiLink と呼ばれ、
