@@ -1,0 +1,84 @@
+
+<h1 id="2020-09-19">2020-09-19</h1>
+
+<p>ひさしぶりに <code class="highlighter-rouge">github pages</code> をつかってみる。
+<a href="./sex_and_gender">sex and gender</a> に
+アクセスできると思うのだが。</p>
+
+<h1 id="2019-08-24">2019-08-24</h1>
+
+<p>これまでつくってきた授業のノートを
+github で公開することを考えている。</p>
+
+<p>gitbook をつかってみよう。</p>
+
+<p>とりあえず sex_and_gender というプロジェクトを
+つくった。
+これでいろいろ実験する。
+うまくいったら、
+いろいろと発展させていこう。</p>
+
+<h1 id="2019-06-25">2019-06-25</h1>
+
+<p>これは
+ぼく [[(merapano]] の github につくった
+page です。
+やはり
+<code class="highlighter-rouge">skk</code> では markdown-mode
+はだめだ。</p>
+
+<p>二日目の
+記入。</p>
+
+<p>どうすれば
+リンクをはれるのかな
+ふつうの markdown ならば
+<a href="pages.html">pages</a> となる。
+これはめんどうくさい。
+<a href="pages">pages</a>はどうなのだろう。</p>
+
+<p>この記法 (<code class="highlighter-rouge">[[''</code>]]’’) はどうやら
+WikiLink と呼ばれ、
+multimarkdown にとりいれられているようだ。
+しかし、
+github pages では
+multimarkdown は
+（あるいは WikiLink は）
+サポートされていないようだ。</p>
+
+<p>jekyll が multimarkdonw を
+markdown にトランスレートしてくれると
+一番よいのだが、
+それはできないようだ。</p>
+
+<h1 id="2019-06-24">2019-06-24</h1>
+
+<p>これは
+ぼく [[merapano]] が
+github につくった
+[[pages]] です。</p>
+
+<h2 id="さぁて">さぁて・・・</h2>
+
+<p>コメントは（いまのところ）</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> (defun my--markdown-entery-key-ad 
+     (this-func &amp;rest args)
+   "markdown-modeでskk-henkan-mode中\
+   にエンターすると行頭にカーソルが飛んでしまう問題の対応"
+   (if skk-henkan-mode (skk-kakutei)
+    (apply this-func args)))
+ (advice-add #'markdown-enter-key 
+   :around #'my--markdown-entery-key-ad)
+</code></pre></div></div>
+
+<h2 id="その次">その次</h2>
+
+<p>２つの大括弧でくくると
+すぐにリンクができるのは
+ikiwiki の仕様かな。</p>
+
+<hr />
+<p>layout: post
+title: Log
+—</p>

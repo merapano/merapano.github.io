@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
+    <title>さとしの github.io</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Sep 2020 14:41:32 +0900</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2020 14:41:32 +0900</lastBuildDate>
+    <link>https://merapano.github.io//</link>
+    <atom:link href="https://merapano.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 22 Sep 2020 16:54:44 +0900</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2020 16:54:44 +0900</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -28,13 +28,125 @@
 
 </description>
         <pubDate>Tue, 22 Sep 2020 14:35:25 +0900</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2020/09/22/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2020/09/22/welcome-to-jekyll.html</guid>
+        <link>https://merapano.github.io//jekyll/update/2020/09/22/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://merapano.github.io//jekyll/update/2020/09/22/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Readme</title>
+        <description>
+&lt;h1 id=&quot;2020-09-19&quot;&gt;2020-09-19&lt;/h1&gt;
+
+&lt;p&gt;ひさしぶりに &lt;code class=&quot;highlighter-rouge&quot;&gt;github pages&lt;/code&gt; をつかってみる。
+&lt;a href=&quot;./sex_and_gender&quot;&gt;sex and gender&lt;/a&gt; に
+アクセスできると思うのだが。&lt;/p&gt;
+
+&lt;h1 id=&quot;2019-08-24&quot;&gt;2019-08-24&lt;/h1&gt;
+
+&lt;p&gt;これまでつくってきた授業のノートを
+github で公開することを考えている。&lt;/p&gt;
+
+&lt;p&gt;gitbook をつかってみよう。&lt;/p&gt;
+
+&lt;p&gt;とりあえず sex_and_gender というプロジェクトを
+つくった。
+これでいろいろ実験する。
+うまくいったら、
+いろいろと発展させていこう。&lt;/p&gt;
+
+&lt;h1 id=&quot;2019-06-25&quot;&gt;2019-06-25&lt;/h1&gt;
+
+&lt;p&gt;これは
+ぼく [[(merapano]] の github につくった
+page です。
+やはり
+&lt;code class=&quot;highlighter-rouge&quot;&gt;skk&lt;/code&gt; では markdown-mode
+はだめだ。&lt;/p&gt;
+
+&lt;p&gt;二日目の
+記入。&lt;/p&gt;
+
+&lt;p&gt;どうすれば
+リンクをはれるのかな
+ふつうの markdown ならば
+&lt;a href=&quot;pages.html&quot;&gt;pages&lt;/a&gt; となる。
+これはめんどうくさい。
+&lt;a href=&quot;pages&quot;&gt;pages&lt;/a&gt;はどうなのだろう。&lt;/p&gt;
+
+&lt;p&gt;この記法 (&lt;code class=&quot;highlighter-rouge&quot;&gt;[[&#39;&#39;&lt;/code&gt;]]’’) はどうやら
+WikiLink と呼ばれ、
+multimarkdown にとりいれられているようだ。
+しかし、
+github pages では
+multimarkdown は
+（あるいは WikiLink は）
+サポートされていないようだ。&lt;/p&gt;
+
+&lt;p&gt;jekyll が multimarkdonw を
+markdown にトランスレートしてくれると
+一番よいのだが、
+それはできないようだ。&lt;/p&gt;
+
+&lt;h1 id=&quot;2019-06-24&quot;&gt;2019-06-24&lt;/h1&gt;
+
+&lt;p&gt;これは
+ぼく [[merapano]] が
+github につくった
+[[pages]] です。&lt;/p&gt;
+
+&lt;h2 id=&quot;さぁて&quot;&gt;さぁて・・・&lt;/h2&gt;
+
+&lt;p&gt;コメントは（いまのところ）&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; (defun my--markdown-entery-key-ad 
+     (this-func &amp;amp;rest args)
+   &quot;markdown-modeでskk-henkan-mode中\
+   にエンターすると行頭にカーソルが飛んでしまう問題の対応&quot;
+   (if skk-henkan-mode (skk-kakutei)
+    (apply this-func args)))
+ (advice-add #&#39;markdown-enter-key 
+   :around #&#39;my--markdown-entery-key-ad)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;その次&quot;&gt;その次&lt;/h2&gt;
+
+&lt;p&gt;２つの大括弧でくくると
+すぐにリンクができるのは
+ikiwiki の仕様かな。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;layout: post
+title: Log
+—&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Sep 2020 00:00:00 +0900</pubDate>
+        <link>https://merapano.github.io//2020/09/22/readme.html</link>
+        <guid isPermaLink="true">https://merapano.github.io//2020/09/22/readme.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>First</title>
+        <description>&lt;!-- -*- coding: utf-8; mode: markdown -*- --&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;layout: post
+title: 始めての投稿
+author: Satoshi Nakagawa
+—&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 22 Sep 2020 00:00:00 +0900</pubDate>
+        <link>https://merapano.github.io//2020/09/22/first.html</link>
+        <guid isPermaLink="true">https://merapano.github.io//2020/09/22/first.html</guid>
+        
         
       </item>
     
