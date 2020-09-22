@@ -21,4 +21,4 @@ github_username:  merapano
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
