@@ -1,8 +1,8 @@
-<!-- -*- coding: utf-8 -*- -->
-
 ---
 layout: default
 ---
+<!-- -*- coding: utf-8 -*- -->
+
 
 # Liquid
 
@@ -18,7 +18,6 @@ layout: default
 
 - [Link to another page](./another-page.html).
 - [Leap-day manual](./leap-day.html)
-- [[leap-day]] 
 
 # Project github pages
 
