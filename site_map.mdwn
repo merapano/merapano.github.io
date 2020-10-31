@@ -29,7 +29,7 @@ layout: default
   </ul>
 {% endfor %}
 
-## ȴ��Ĥ�
+## 抜粋つき
 
 <ul>
   {% for post in site.posts limit: 10  %}
