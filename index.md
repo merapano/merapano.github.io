@@ -3,6 +3,7 @@ layout: default
 ---
 <!-- -*- coding: utf-8 -*- -->
 
+- [Site map](./site_map.html)
 
 # Blog
 
