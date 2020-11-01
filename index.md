@@ -1,5 +1,5 @@
 ---
-<!-- -*- coding: utf-8 -*- -->
+title: 残日録 --- The Remains of the Day
 layout: default
 ---
 
@@ -7,18 +7,8 @@ layout: default
 
 なかがわ・さとしです。
 人類学者です。
-インドネシアのフローレス島で1979年から
-フィールドワークを続けています。
-
-[オーストラリア国立大学](https://www.anu.edu.au)
-の卒業生です。
-大阪国際大学や大阪大学などで
-教えていました。
-二度（1980年と2018年に）
-[フローレス大学](https://www.uniflor.ac.id/)
-(Universitas Flores) で
-セミナーをしたことがあります。
 ただいま無職2年目です。
+より詳しい自己紹介は [ここ](aboutme.html)で。
 
 ## ブログ
 
