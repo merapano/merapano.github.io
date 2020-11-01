@@ -1,40 +1,40 @@
 ---
+<!-- -*- coding: utf-8 -*- -->
 layout: default
 ---
-<!-- -*- coding: utf-8 -*- -->
 
-# �Ϥ����
+# はじめに
 
-�ʤ�������Ȥ��Ǥ���
-����ؼԤǤ���
-����ɥͥ����Υե����쥹���1979ǯ����
-�ե�����ɥ����³���Ƥ��ޤ���
+なかがわ・さとしです。
+人類学者です。
+インドネシアのフローレス島で1979年から
+フィールドワークを続けています。
 
-[�������ȥ�ꥢ��Ω���](www.anu.edu.au)
-��´�����Ǥ���
-[��������](https://www.oiu.ac.jp/)����¾��
-�����Ƥ��ޤ�����
-��������̵��2ǯ�ܤǤ���
+[オーストラリア国立大学](www.anu.edu.au)
+の卒業生です。
+[大阪国際大学](https://www.oiu.ac.jp/)その他で
+教えていました。
+ただいま無職2年目です。
 
-[�Ť�������]l(http://www.merapano.net/~satoshi/private/diary) 
-���餳����ؤΰܹԺ����Ǥ���
-2020ǯ����ˤϴ����˰ܹԤ������ȻפäƤ��ޤ���
+[古いサイト](http://www.merapano.net/~satoshi/private/diary) 
+からこちらへの移行作業中です。
+2020年度中には完全に移行したいと思っています。
 
-# ���Υ�����
+# このサイト
 
-[jekyll](https://jekyllrb.com/) ��Ĥ��ä�
-[github](http://jekyllrb-ja.github.io/) �ξ�� 
-��äƤ��ޤ���
+[jekyll](https://jekyllrb.com/) をつかって
+[github](http://jekyllrb-ja.github.io/) の上に 
+作っています。
 
 
-# �����Ȥ�����
+# サイトの内容
 
-�����ȥޥåפ� `site_map` �ˤ���ޤ� ---
-[����](./site_map.html)�򥯥�å����Ƥ���������
+サイトマップは `site_map` にあります ---
+[ここ](./site_map.html)をクリックしてください。
 
-# �֥���
+# ブログ
 
-## �ǿ��Υ֥���
+## 最新のブログ
 
 <ul>
   {% for post in site.posts limit:10 %}
@@ -44,14 +44,14 @@ layout: default
 {% endfor %}
  </ul>
 
-[��äȸ�����?](./blog-list.html)
+[もっと見たい?](./blog-list.html)
 
-# ���ƥ��꡼������
+# カテゴリー、タグ
 
-���ƥ��꡼���뤤�ϥ�����˸��������
-[����](tags.html) �򥯥�å����Ƥ���������
+カテゴリーあるいはタグ毎に見たければ
+[ここ](tags.html) をクリックしてください。
 
-# �����
+# 人類学
 
 
 - [Sex and Gender](./sex_and_gender/)
