@@ -15,6 +15,8 @@ layout: default
 
 ### 最新のブログ
 
+以下抜粋（最初の一段落）つきです。
+
 <ul>
   {% for post in site.posts limit: 5 %}
     <li>
@@ -23,7 +25,6 @@ layout: default
     </li>
   {% endfor %}
 </ul>
-
 
 もっと見たければ、[ここをクリック](./blog-list.html) 。
 
