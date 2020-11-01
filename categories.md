@@ -1,11 +1,10 @@
 ---
-<!-- -*- coding: utf-8 -*->
 layout: default
 ---
 
 # Categories
 
-¥«¥Æ¥´¥ê¡¼ÊÌ¤Ç¤¹¡£
+ã‚«ãƒ†ã‚´ãƒªãƒ¼åˆ¥ã§ã™ã€‚
 
 {% for category in site.categories %}
   <h3>{{ category[0] }}</h3>

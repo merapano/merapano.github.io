@@ -1,10 +1,10 @@
 ---
-<!-- -*- coding: utf-8 -*->
 layout: default
 ---
+
 # Tags
 
-•ø•∞ Ã§«§π°£
+„Çø„Ç∞Âà•„Åß„Åô„ÄÇ
 
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
