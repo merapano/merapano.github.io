@@ -14,7 +14,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 残日録 --- The Remains of the Day
+title: 残日録 (on github) --- The Remains of the Day
 email: merapano@gmail.com
 name: Satoshi's Blog on Github
 description: >- # this means to ignore newlines until "baseurl:"
