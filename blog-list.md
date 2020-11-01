@@ -4,7 +4,7 @@ layout: default
 
 # List of all the entries
 
-以下ブログの全エントリーです。
+以下ブログをすべて紹介します。
 
 <ul>
   {% for post in site.posts %}
