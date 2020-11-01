@@ -1,7 +1,7 @@
 ---
+<!-- -*- coding: utf-8 -*->
 layout: default
 ---
-<!-- -*- coding: utf-8 -*->
 
 ## Categories
 
