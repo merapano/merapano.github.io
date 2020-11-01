@@ -4,6 +4,7 @@ layout: default
 
 # List of all the entries
 
+
 以下ブログをすべて紹介します。
 
 <ul>
@@ -13,5 +14,18 @@ layout: default
       </li>
 {% endfor %}
  </ul>
+
+<!--
+
+<ul>
+  {% for post in site.posts limit: 20 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
+-->
 
 

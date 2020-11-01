@@ -17,13 +17,15 @@ layout: default
 
 <ul>
   {% for post in site.posts limit: 5 %}
-      <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-{% endfor %}
- </ul>
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
 
-もっと見ければ、[ここをクリック](./blog-list.html) 。
+
+もっと見たければ、[ここをクリック](./blog-list.html) 。
 
 ### カテゴリー、タグ
 
