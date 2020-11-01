@@ -26,12 +26,6 @@ layout: default
 [github](http://jekyllrb-ja.github.io/) の上に 
 作っています。
 
-
-# サイトの内容
-
-サイトマップは `site_map` にあります ---
-[ここ](./site_map.html)をクリックしてください。
-
 # ブログ
 
 ## 最新のブログ
