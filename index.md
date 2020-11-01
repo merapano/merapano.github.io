@@ -15,7 +15,7 @@ layout: default
 大阪国際大学や大阪大学などで
 教えていました。
 二度（1980年と2018年に）
-[フローレス大学](https://www.oiu.ac.jp/)
+[フローレス大学](https://www.uniflor.ac.id/)
 (Universitas Flores) で
 セミナーをしたことがあります。
 ただいま無職2年目です。
