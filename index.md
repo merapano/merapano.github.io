@@ -3,7 +3,7 @@
 layout: default
 ---
 
-# はじめに
+## はじめに
 
 なかがわ・さとしです。
 人類学者です。
@@ -20,9 +20,9 @@ layout: default
 セミナーをしたことがあります。
 ただいま無職2年目です。
 
-# ブログ
+## ブログ
 
-## 最新のブログ
+### 最新のブログ
 
 <ul>
   {% for post in site.posts limit:5 %}
@@ -34,18 +34,18 @@ layout: default
 
 もっと見ければ、[ここをクリック](./blog-list.html) 。
 
-## カテゴリー、タグ
+### カテゴリー、タグ
 
 [カテゴリー別](./categories.html)
 あるいは[タグ別](./tags.html) でブログの
 エントリーを眺めることもできます。
 
-# 人類学
+## 人類学
 
 - [Sex and Gender](./sex_and_gender/)
 - [Environmentalism](./environment/)
 
-# テクニカルなおまけ
+## テクニカルなおまけ
 
 このサイトは、
 [jekyll](https://jekyllrb.com/) をつかって
