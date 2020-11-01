@@ -37,19 +37,20 @@ layout: default
 ## 最新のブログ
 
 <ul>
-  {% for post in site.posts limit:10 %}
+  {% for post in site.posts limit:5 %}
       <li>
             <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
 {% endfor %}
  </ul>
 
-[もっと見たい?](./blog-list.html)
+もっと見ければ、[ここをクリック](./blog-list.html) 。
 
 # カテゴリー、タグ
 
-カテゴリーあるいはタグ毎に見たければ
-[ここ](tags.html) をクリックしてください。
+[カテゴリー別](./categories.html)
+あるいは[タグ別](./tags.html) でブログの
+エントリーを眺めることもできます。
 
 # 人類学
 
