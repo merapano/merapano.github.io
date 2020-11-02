@@ -13,6 +13,10 @@ layout: default
 
 ## ブログ
 
+- [カテゴリー](categories.html)
+- [タグ](tags.html)
+- [全エントリー](blog-list)
+
 ### 最新のブログ
 
 以下抜粋（最初の一段落）つきです。
