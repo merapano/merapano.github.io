@@ -1,5 +1,4 @@
 ---
-title: 残日録 --- The Remains of the Day
 layout: default
 ---
 
