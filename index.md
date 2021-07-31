@@ -41,7 +41,8 @@ layout: default
 ## 人類学
 
 - [Sex and Gender](./sex_and_gender/)
-- [Environmentalism](./environment/)
+- [Naturalism](./naturalism/)
+- [エンデに向けて](./towards_ende/) 
 
 ## テクニカルなおまけ
 
