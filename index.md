@@ -41,8 +41,8 @@ layout: default
 ## 人類学
 
 - [Sex and Gender](./sex_and_gender/)
-- [Naturalism](./naturalism/)
-- [エンデに向けて](./towards_ende/) 
+- [Naturalism](./naturalism/README.html)
+- [エンデに向けて](./towards_ende/) （まもなく公開）
 
 ## テクニカルなおまけ
 
