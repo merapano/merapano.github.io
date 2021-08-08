@@ -11,6 +11,13 @@ layout: default
 より詳しい自己紹介は
 [ここをクリックしてください](aboutme.html)。
 
+## 人類学
+
+- [Sex and Gender](./sex_and_gender/)
+- [Naturalism](./naturalism/README.html) （まもなく公開）
+- [エンデに向けて](./towards_ende/) 
+- [人類学でコンピューターをつかう](computer_and_anthropology/)
+
 ## ブログ
 
 - [カテゴリー](categories.html)
@@ -37,12 +44,6 @@ layout: default
 [カテゴリー別](./categories.html)
 あるいは[タグ別](./tags.html) でブログの
 エントリーを眺めることもできます。
-
-## 人類学
-
-- [Sex and Gender](./sex_and_gender/)
-- [Naturalism](./naturalism/README.html)
-- [エンデに向けて](./towards_ende/) （まもなく公開）
 
 ## テクニカルなおまけ
 
