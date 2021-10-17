@@ -13,10 +13,10 @@ layout: default
 
 ## 人類学
 
-- [Sex and Gender](./sex_and_gender/)
-- [Naturalism](./naturalism/README.html) （まもなく公開）
 - [エンデに向けて](./towards_ende/README.html) 
 - [人類学でコンピューターをつかう](computer_and_anthropology/README.html)
+- [Sex and Gender](./sex_and_gender/)
+- [Naturalism](./naturalism/README.html) （まもなく公開）
 
 ## ブログ
 
