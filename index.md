@@ -3,6 +3,8 @@ title: 残日録 --- The Remains of the day
 layout: default
 ---
 
+<a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
+
 ## はじめに
 
 なかがわ・さとしです。
