@@ -31,7 +31,7 @@ layout: default
 以下抜粋（最初の一段落）つきです。
 
 <ul>
-  {% for post in site.posts limit: 5 %}
+  {% for post in site.posts limit: 20 %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
