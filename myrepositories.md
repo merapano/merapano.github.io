@@ -1,9 +1,6 @@
 ---
 title: "My Repositories"
 author: "Satoshi Nakagawa"
-date:
- - created: 2022-07-18
- - updated: 
 filename: myrepositories.md
 documentclass: bxjsarticle
 ---
