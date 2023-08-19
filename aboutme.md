@@ -1,5 +1,6 @@
 ---
 title: 自己紹介
+author: "Satoshi Nakagawa"
 layout: default
 ---
 
