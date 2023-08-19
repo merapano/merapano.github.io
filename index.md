@@ -9,7 +9,7 @@ layout: default
 人類学者です。
 ただいま無職4年目です。
 より詳しい自己紹介は
-[ここをクリックしてください](aboutme.html)。
+[ここをクリックしてください](aboutme.md)。
 
 [RSS](feed.xml)
 
