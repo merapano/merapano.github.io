@@ -15,7 +15,7 @@ layout: default
 
 ## 人類学
 
-  [エンデに向けて](./ende/README.html) 
+- [エンデに向けて](./ende/README.html) 
 - [人類学でコンピューターをつかう](computer_and_anthropology/README.html)
 - [Sex and Gender](./sex_and_gender/)
 - [timor-wiki](./timor-wiki/) ティモール島についての Wiki
