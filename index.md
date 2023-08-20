@@ -7,7 +7,7 @@ layout: default
 
 なかがわ・さとしです。
 人類学者です。
-ただいま無職5年目です。
+ただいま無職です。
 より詳しい自己紹介は
 [ここをクリックしてください](aboutme.md)。
 
@@ -15,10 +15,10 @@ layout: default
 
 ## 人類学
 
-- [エンデに向けて](./towards_ende/README.html) 
+  [エンデに向けて](./ende/README.html) 
 - [人類学でコンピューターをつかう](computer_and_anthropology/README.html)
 - [Sex and Gender](./sex_and_gender/)
-- [Naturalism](./naturalism/README.html) （まもなく公開）
+- [timor-wiki](./timor-wiki/) ティモール島についての Wiki
 
 ## ブログ
 
