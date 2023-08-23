@@ -1,5 +1,6 @@
 ---
 title: 自己紹介
+author: "Satoshi Nakagawa"
 layout: default
 ---
 
@@ -7,6 +8,7 @@ layout: default
 
 なかがわ・さとしです。
 人類学者です。
+
 インドネシアのフローレス島で1979年から
 フィールドワークを続けています。
 [オーストラリア国立大学](https://www.anu.edu.au)
@@ -17,7 +19,7 @@ layout: default
 [フローレス大学](https://www.uniflor.ac.id/)
 (Universitas Flores) で
 セミナーをしたことがあります。
-ただいま無職2年目です。
+ただいま [2023-08-19] 無職5年目です。
 
 ## フィールドワーク
 
