@@ -1,5 +1,6 @@
 ---
 title: 残日録 --- The Remains of the day
+author: "Satoshi Nakagawa"
 layout: default
 ---
 
