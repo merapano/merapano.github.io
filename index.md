@@ -3,7 +3,6 @@ title: 残日録 --- The Remains of the day
 author: "Satoshi Nakagawa"
 layout: default
 ---
-```
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-F5QJMGG75W"></script>
@@ -16,7 +15,6 @@ layout: default
 </script>
 
 
-```
 ## はじめに
 
 なかがわ・さとしです。
