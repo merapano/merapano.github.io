@@ -27,6 +27,7 @@ layout: default
 
 ## 人類学
 
+- [なかがわさとし論文集（その1）：民族誌篇](./paper-0-md/)
 - [エンデに向けて](./ende/README.html) 
 - [人類学でコンピューターをつかう](computer_and_anthropology/README.html)
 - [Sex and Gender](./sex_and_gender/)
