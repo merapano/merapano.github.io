@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Categories
+## Categories
 
 {% for category in site.categories %}
 <a href="{{ category[0] | prepend: "#" }}">{{ category[0] | prepend: " | "}}</a>{% endfor %}
