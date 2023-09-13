@@ -4,9 +4,7 @@ layout: default
 
 # Categories
 
-カテゴリー別です。
-
-{% for categoy in site.categories %}
+{% for category in site.categories %}
 <a href="{{ category[0] | prepend: "#" }}">{{ category[0] | prepend: " | "}}</a>{% endfor %}
 
 -----
