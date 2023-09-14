@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Home](index.html)
+
 ## Categories
 
 {% for category in site.categories %}
