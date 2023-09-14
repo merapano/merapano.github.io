@@ -2,6 +2,7 @@
 layout: default
 ---
 
+[Home](index.html)
 
 ## Tags
 
