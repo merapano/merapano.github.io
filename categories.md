@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Home](index.html)
+
 ## Categories
 
 {% for category in site.categories %}
@@ -10,7 +12,7 @@ layout: default
 -----
 
 {% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
+  <h3><a name="{{ category[0] }}" id="{{ category[0] }}">{{ category[0] }}</a></h3>
   <ul>
     {% for post in category[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
