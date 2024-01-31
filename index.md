@@ -25,6 +25,9 @@ layout: default
 
 [RSS](feed.xml)
 
+updated: [2024-01-31] 
+
+
 ## 人類学
 
 - [ユーチューブ](./youtube-index.html)
