@@ -15,7 +15,7 @@ layout: default
 </script>
 
 
-## はじめに
+# はじめに
 
 なかがわ・さとしです。
 人類学者です。
@@ -25,22 +25,40 @@ layout: default
 
 [RSS](feed.xml)
 
-## 人類学
 
-- [ユーチューブ](./youtube-index.html)
-- [なかがわさとし論文集（その1）：民族誌篇](./paper-0-md/)
-- [エンデに向けて](./ende/README.html) 
-- [人類学でコンピューターをつかう](computer_and_anthropology/README.html)
-- [Sex and Gender](./sex_and_gender/)
+# 人類学
+
+- [ユーチューブ](./youtube-index.html)作品集
+<!-- - [なかがわさとし論文集（その1）：民族誌篇](./paper-0-md/) -->
 - [timor-wiki](./timor-wiki/) ティモール島についての Wiki
 
-## ブログ
+## Github Project Pages
 
+わたしはすべての作品
+（論文、授業ノーツなど）
+を Github で管理しています。
+そのうちに一つづつ公開していく予定です。
+まずは、
+人類学で Linux、git、github などを使う方法を
+示します。
+
+- [人類学でコンピューターをつかう](computer_and_anthropology/README.html)
+
+Github の人類学関連のリポジトリはほとんどが
+プライベートです。
+とりあえず非常に古い二つのリポジトリを公開しましたので、
+github pages (project) を以下に示します。
+
+- [エンデに向けて](./ende/README.html) 
+- [Sex and Gender](./sex_and_gender/)
+
+# ブログ
+
+- [全エントリー](blog-list)
 - [カテゴリー](categories.html)
 - [タグ](tags.html)
-- [全エントリー](blog-list)
 
-### 最新のブログ
+## 最新のブログ
 
 以下抜粋（最初の一段落）つきです。
 
@@ -55,13 +73,13 @@ layout: default
 
 もっと見たければ、[ここをクリック](./blog-list.html) 。
 
-### カテゴリー、タグ
+## カテゴリー、タグ
 
 [カテゴリー別](./categories.html)
 あるいは[タグ別](./tags.html) でブログの
 エントリーを眺めることもできます。
 
-## テクニカルなおまけ
+# テクニカルなおまけ
 
 このサイトは、
 [jekyll](https://jekyllrb.com/) をつかって
