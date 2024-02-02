@@ -60,13 +60,13 @@ github pages (project) を以下に示します。
 
 ## 最新のブログ
 
-以下抜粋（最初の一段落）つきです。
+<!-- 以下抜粋（最初の一段落）つきです。-->
 
 <ul>
   {% for post in site.posts limit: 20 %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
+<!--      {{ post.excerpt }} -->
     </li>
   {% endfor %}
 </ul>
