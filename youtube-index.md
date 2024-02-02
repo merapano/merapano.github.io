@@ -2,12 +2,7 @@
 title: "なかがわさとしチャンネル"
 subtitle: "さとし on Youtub "
 author: "Satoshi Nakagawa"
-date:
- - created: 2023-12-13
- - updated: 2023-12-13 
-spec: 
-memo: 
-filename: youtube.md
+date: 2023-12-13
 documentclass: bxjsarticle
 ---
 
