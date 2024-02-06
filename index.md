@@ -52,12 +52,6 @@ github pages (project) を以下に示します。
 - [エンデに向けて](./ende/README.html) 
 - [Sex and Gender](./sex_and_gender/)
 
-# ブログ
-
-- [全エントリー](blog-list)
-- [カテゴリー](categories.html)
-- [タグ](tags.html)
-
 ## 最新のブログ
 
 <!-- 以下抜粋（最初の一段落）つきです。-->
@@ -73,11 +67,12 @@ github pages (project) を以下に示します。
 
 もっと見たければ、[ここをクリック](./blog-list.html) 。
 
-## カテゴリー、タグ
+## Blog
 
-[カテゴリー別](./categories.html)
-あるいは[タグ別](./tags.html) でブログの
-エントリーを眺めることもできます。
+- [全エントリー](blog-list)
+- [カテゴリー](categories.html)
+- [タグ](tags.html)
+
 
 # テクニカルなおまけ
 
