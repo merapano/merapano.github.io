@@ -61,6 +61,7 @@ github pages (project) を以下に示します。
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
 <!--      {{ post.excerpt }} -->
+    <hr />
     </li>
   {% endfor %}
 </ul>
