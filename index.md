@@ -28,6 +28,9 @@ layout: default
 
 # 人類学
 
+人類学関連のディレクトリ、ファイルのインデックスは
+[ここ](anthrop-index.md) にあります。
+
 - [ユーチューブ](./youtube-index.html)作品集
 <!-- - [なかがわさとし論文集（その1）：民族誌篇](./paper-0-md/) -->
 - [timor-wiki](./timor-wiki/) ティモール島についての Wiki
