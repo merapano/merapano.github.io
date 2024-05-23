@@ -54,7 +54,7 @@ github pages (project) を以下に示します。
 
 <！-- - [エンデに向けて](./ende/README.html) -->
 - [Sex and Gender (EPUB)](./sex_and_gender/00BOOK.epub)
-  + （HTML 版は 
+  + HTML 版は 
   [こちら](http://www.merapano.net/anthrop/class-md/sex_and_gender/)
 
 ## 最新のブログ
