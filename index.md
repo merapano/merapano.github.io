@@ -14,6 +14,7 @@ layout: default
   gtag('config', 'G-F5QJMGG75W');
 </script>
 
+[RSS](feed.xml)
 
 # はじめに
 
@@ -23,8 +24,6 @@ layout: default
 より詳しい自己紹介は
 [ここをクリックしてください](aboutme.md)。
 
-[RSS](feed.xml)
-
 
 # 人類学
 
@@ -33,7 +32,7 @@ layout: default
 
 - [ユーチューブ](./youtube-index.html)作品集
 <!-- - [なかがわさとし論文集（その1）：民族誌篇](./paper-0-md/) -->
-- [timor-wiki](./timor-wiki/) ティモール島についての Wiki
+<!-- - [timor-wiki](./timor-wiki/) ティモール島についての Wiki -->
 
 ## Github Project Pages
 
@@ -41,11 +40,13 @@ layout: default
 （論文、授業ノーツなど）
 を Github で管理しています。
 そのうちに一つづつ公開していく予定です。
+<!--
 まずは、
 人類学で Linux、git、github などを使う方法を
 示します。
 
 - [人類学でコンピューターをつかう](computer_and_anthropology/README.html)
+-->
 
 Github の人類学関連のリポジトリはほとんどが
 プライベートです。
@@ -56,6 +57,14 @@ github pages (project) を以下に示します。
 - [Sex and Gender (EPUB)](./sex_and_gender/00BOOK.epub)
   + HTML 版は 
   [こちら](http://www.merapano.net/~satoshi/anthrop/class-md/sex_and_gender/)
+  (クリックで www.merapano.net/ に移動します) 
+
+<!--
+- [環境主義と人類学 (EPUB)](environment/00BOOK.epub)
+  + HTML 版は 
+  [こちら](http://www.merapano.net/~satoshi/anthrop/class-md/environment/)
+  (クリックで www.merapano.net/ に移動します) 
+-->
 
 ## 最新のブログ
 
