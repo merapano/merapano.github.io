@@ -40,12 +40,15 @@ layout: default
 （論文、授業ノーツなど）
 を Github で管理しています。
 そのうちに一つづつ公開していく予定です。
+
 <!--
+
 まずは、
 人類学で Linux、git、github などを使う方法を
 示します。
 
 - [人類学でコンピューターをつかう](computer_and_anthropology/README.html)
+
 -->
 
 Github の人類学関連のリポジトリはほとんどが
