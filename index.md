@@ -27,13 +27,6 @@ layout: default
 
 # 人類学
 
-人類学関連のディレクトリ、ファイルのインデックスは
-[ここ](anthrop-index.md) にあります。
-
-- [ユーチューブ](./youtube-index.html)作品集
-<!-- - [なかがわさとし論文集（その1）：民族誌篇](./paper-0-md/) -->
-<!-- - [timor-wiki](./timor-wiki/) ティモール島についての Wiki -->
-
 ## Github Project Pages
 
 わたしはすべての作品
@@ -68,6 +61,20 @@ github pages (project) を以下に示します。
   [こちら](http://www.merapano.net/~satoshi/anthrop/class-md/environment/)
   (クリックで www.merapano.net/ に移動します) 
 -->
+
+人類学関連のディレクトリ、ファイルのインデックスは
+[ここ](anthrop-index.md) にあります。
+
+## Youtube
+
+ユーチューブにこれまでにいくつか Zoom による講演の
+録画をアップしました。
+以下をみてください。
+
+
+- [ユーチューブ](./youtube-index.html)作品集
+<!-- - [なかがわさとし論文集（その1）：民族誌篇](./paper-0-md/) -->
+<!-- - [timor-wiki](./timor-wiki/) ティモール島についての Wiki -->
 
 ## 最新のブログ
 
