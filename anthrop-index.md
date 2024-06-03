@@ -1,5 +1,5 @@
 ---
-title: "人類学関連のインデックス"
+title: "講義録のインデックス"
 subtitle: ""
 author: "Satoshi Nakagawa"
 date: 2024-05-15
@@ -13,8 +13,13 @@ documentclass: bxjsarticle
 
 # 講義集
 
-- [セックスとジェンダー (epub)](sex_and_gender/00BOOK.epub) 
- --- 実験です；期待しないように；教師一年目に準備した授業ノートです
+- 『セックスとジェンダー』[epub](sex_and_gender/00BOOK.epub) 
+[pdf](sex_and_gender/00BOOK.pdf) 
+ --- 実験です；期待しないように；
+ 教師一年目(1988)に準備した授業ノートです
+- 独我論と人類学 (solipsism) --- 1997 阪大の1年目に
+  吹田（専門課程）で行なった授業です
+- 心と文化 (mind_and_culture) (2001) 吹田の授業
 - 環境主義と人類学 Coming Soon! --- 「伝統と近代」図式の応用例です
 - 開発と人類学 (development) --- パンキョウです；『交換の民族誌』の続編のようなものです
 - 心的なものとは何か？ --- （2012 吹田） 
