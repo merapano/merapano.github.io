@@ -3,22 +3,33 @@ title: "講義録のインデックス"
 subtitle: ""
 author: "Satoshi Nakagawa"
 date: 2024-05-15
-update: [2024-05-24]
+updated: 2024-06-15
 spec: 
 memo: 
 filename: anthrop-index.md
 documentclass: bxjsarticle
+nocite: |
+  @nakagawa-dog,
+  @nakagawa-cat,
 ---
+
 # はじめに
 
 # 講義集
 
-- 『セックスとジェンダー』[epub](sex_and_gender/00BOOK.epub) 
-[pdf](sex_and_gender/00BOOK.pdf) 
- --- 実験です；期待しないように；
- 教師一年目(1988)に準備した授業ノートです
-- 独我論と人類学 (solipsism) --- 1997 阪大の1年目に
-  吹田（専門課程）で行なった授業です
+- 文化の中の生と死 (sex_and_gender) (1988) 大阪国際大学
+  一般教養
+  [目次](http://www.merapano.net/~satoshi/anthrop/class-md/sex_and_gender/index.html)
+  [解説](http://www.merapano.net/~satoshi/anthrop/class-md/sex_and_gender/README.html)
+- 交換の民族誌 (1989/1991) 大阪国際大学
+  一般教養
+  『交換の民族誌』<!---[@nakagawa-dog]--> (中川 1992)
+  として刊行
+- 異文化の語り方 (1989/1991) 大阪国際大学
+  一般教養
+  『異文化の語り方』<!---[@nakagawa-cat]--> (中川 1992)
+  として刊行
+- 独我論と人類学 (solipsism) (1997) 阪大 専門
 - 心と文化 (mind_and_culture) (2001) 吹田の授業
 - 環境主義と人類学 Coming Soon! --- 「伝統と近代」図式の応用例です
 - 開発と人類学 (development) --- パンキョウです；『交換の民族誌』の続編のようなものです
@@ -35,3 +46,5 @@ documentclass: bxjsarticle
 
 - 民族誌篇
 - 理論篇
+
+# References
