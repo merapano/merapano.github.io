@@ -22,8 +22,8 @@ nocite: |
 - 文化の中の生と死 --- 自然と文化の人類学
   (sex_and_gender) (1988) 大阪国際大学
   パンキョウ
-  [目次](http://www.merapano.net/~satoshi/anthrop/class-md/sex_and_gender/index.html)
-  [解説](http://www.merapano.net/~satoshi/anthrop/class-md/sex_and_gender/README.html)
+  [[目次]](http://www.merapano.net/~satoshi/anthrop/class-md/sex_and_gender/index.html)
+  [[解説]](http://www.merapano.net/~satoshi/anthrop/class-md/sex_and_gender/README.html)
 - 交換の民族誌 (1989/1991) 大阪国際大学
   一般教養
   『交換の民族誌』<!---[@nakagawa-dog]--> (中川 1992)
@@ -39,11 +39,11 @@ nocite: |
 - 心と文化 (mind_and_culture) (2001) 専門 [解説] [目次]
 - 表の中の原住民 --- 
   環境主義と人類学 (environment) 2007 パンキョウ／専門
-  [目次](http://www.merapano.net/~satoshi/anthrop/class-md/environment/index.html)
-  [解説](http://www.merapano.net/~satoshi/anthrop/class-md/environment/README.html)
+  [[目次]](http://www.merapano.net/~satoshi/anthrop/class-md/environment/index.html)
+  [[解説]](http://www.merapano.net/~satoshi/anthrop/class-md/environment/README.html)
 - 開発と人類学 (circa 2002/2007) パンキョウ
-  [目次](http://www.merapano.net/~satoshi/anthrop/class-md/development/index.html)
-  [解説](http://www.merapano.net/~satoshi/anthrop/class-md/development/README.html)
+  [[目次]](http://www.merapano.net/~satoshi/anthrop/class-md/development/index.html)
+  [[解説]](http://www.merapano.net/~satoshi/anthrop/class-md/development/README.html)
 - 心的なものとは何か？(mind)  2012 専門 [目次] [解説]
 - 社会的なものとは？ (social) 2011、2013 専門 [目次] [解説]
 - 合理性とはなにか？ (rationality) 2010 専門 [目次] [解説]
