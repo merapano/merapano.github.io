@@ -15,47 +15,62 @@ nocite: |
 
 # はじめに
 
+30年の教員生活でつくった講義ノーツおよび
+口頭発表を公刊していきます。
+
+
+- □ 未公開
+- ■ [www.merapano.net](http://www.merapano.net/~satoshi/private/diary/) に公開済み (HTML/EPUB/PDF)
+- ☆ このページ (github project pages) に公開ずみ
+- ★ 紙の本として出版ずみ
+
 # 講義集
 
 ## 大阪国際大学
 
-- 文化の中の生と死 --- 自然と文化の人類学
+- ■ 文化の中の生と死 --- 自然と文化の人類学
   (sex_and_gender) (1988) 大阪国際大学
   パンキョウ
   [[目次]](http://www.merapano.net/~satoshi/anthrop/class-md/sex_and_gender/index.html)
   [[解説]](http://www.merapano.net/~satoshi/anthrop/class-md/sex_and_gender/README.html)
-- 交換の民族誌 (1989/1991) 大阪国際大学
+- ★ 交換の民族誌 (1989/1991) 大阪国際大学
   一般教養
   『交換の民族誌』<!---[@nakagawa-dog]--> (中川 1992)
   として刊行
-- 異文化の語り方 (1989/1991) 大阪国際大学
+- ★ 異文化の語り方 (1989/1991) 大阪国際大学
   一般教養
   『異文化の語り方』<!---[@nakagawa-cat]--> (中川 1992)
   として刊行
   
 ## 大阪大学
   
-- 独我論と人類学 (solipsism) (1997) 専門 [解説] [目次]
-- 心と文化 (mind_and_culture) (2001) 専門 [解説] [目次]
-- 表の中の原住民 --- 
-  環境主義と人類学 (environment) 2007 パンキョウ／専門
+- □ 独我論と人類学 (solipsism) (1997) 専門 [解説] [目次]
+- □ 心と文化 (mind_and_culture) (2001) 専門 [解説] [目次]
+- ■ 表の中の原住民 --- 
+  ■ 環境主義と人類学 (environment) 2007 パンキョウ／専門
   [[目次]](http://www.merapano.net/~satoshi/anthrop/class-md/environment/index.html)
   [[解説]](http://www.merapano.net/~satoshi/anthrop/class-md/environment/README.html)
-- 開発と人類学 (circa 2002/2007) パンキョウ
+- ■ 開発と人類学 (circa 2002/2007) パンキョウ
   [[目次]](http://www.merapano.net/~satoshi/anthrop/class-md/development/index.html)
   [[解説]](http://www.merapano.net/~satoshi/anthrop/class-md/development/README.html)
-- 心的なものとは何か？(mind)  2012 専門 [目次] [解説]
-- 社会的なものとは？ (social) 2011、2013 専門 [目次] [解説]
-- 合理性とはなにか？ (rationality) 2010 専門 [目次] [解説]
-- 相対主義の人類学 (relativism)  2014 専門 [目次] [解説]
-- 引用と人生 (quotation) 2015 専門 [目次] [解説]
-- 美学と人類学 (aesthetics)  2016 専門 [目次] [解説]
-- 模型の人類学 (model)  2017 専門 [目次] [解説]
-- 呪物の人類学 (fetish)  2018 専門 [目次] [解説]
+- □ コンタクト・ゾーン (contact) 2007 専門 [目次] [解説]
+- □ 心的なものとは何か？(mind)  2012 専門 [目次] [解説]
+- □ 文化と人類学 (culture) 2012 専門 [目次] [解説]
+- □ 社会的なものとは？ (social) 2011、2013 専門 [目次] [解説]
+- □ 合理性とはなにか？ (rationality) 2010 専門 [目次] [解説]
+- ■ 相対主義の人類学 (relativism)  2014 専門 
+  [[目次]](http://www.merapano.net/~satoshi/anthrop/class-md/relativism/index.html)
+  [[解説]](http://www.merapano.net/~satoshi/anthrop/class-md/relativism/README.html)
+- ■ 引用と人生 (quotation) 2015 専門 
+  [[目次]](http://www.merapano.net/~satoshi/anthrop/class-md/quotation/index.html)
+  [[解説]](http://www.merapano.net/~satoshi/anthrop/class-md/quotation/README.html)
+- □ 美学と人類学 (aesthetics)  2016 専門 [目次] [解説]
+- □ 模型の人類学 (model)  2017 専門 [目次] [解説]
+- □ 呪物の人類学 (fetish)  2018 専門 [目次] [解説]
 
 # 口頭発表
 
-- 民族誌篇 (paper-0-md)  [目次] [解説]
-- 理論篇 (paper-1-md)  [目次] [解説]
+- □ 民族誌篇 (paper-0-md)  [目次] [解説]
+- □ 理論篇 (paper-1-md)  [目次] [解説]
 
 # References
