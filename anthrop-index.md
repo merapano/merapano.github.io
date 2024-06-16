@@ -54,10 +54,10 @@ nocite: |
   [[目次]](http://www.merapano.net/~satoshi/anthrop/class-md/development/index.html)
   [[解説]](http://www.merapano.net/~satoshi/anthrop/class-md/development/README.html)
 - □ コンタクト・ゾーン (contact) 2007 専門 [目次] [解説]
+- □ 合理性とはなにか？ (rationality) 2010 専門 [目次] [解説]
+- □ 社会的なものとは？ (social) 2011、2013 専門 [目次] [解説]
 - □ 心的なものとは何か？(mind)  2012 専門 [目次] [解説]
 - □ 文化と人類学 (culture) 2012 専門 [目次] [解説]
-- □ 社会的なものとは？ (social) 2011、2013 専門 [目次] [解説]
-- □ 合理性とはなにか？ (rationality) 2010 専門 [目次] [解説]
 - ■ 相対主義の人類学 (relativism)  2014 専門 
   [[目次]](http://www.merapano.net/~satoshi/anthrop/class-md/relativism/index.html)
   [[解説]](http://www.merapano.net/~satoshi/anthrop/class-md/relativism/README.html)
