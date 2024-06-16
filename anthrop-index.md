@@ -47,7 +47,7 @@ nocite: |
 - □ 独我論と人類学 (solipsism) (1997) 専門 [解説] [目次]
 - □ 心と文化 (mind_and_culture) (2001) 専門 [解説] [目次]
 - ■ 表の中の原住民 --- 
-  ■ 環境主義と人類学 (environment) 2007 パンキョウ／専門
+  環境主義と人類学 (environment) 2007 パンキョウ／専門
   [[目次]](http://www.merapano.net/~satoshi/anthrop/class-md/environment/index.html)
   [[解説]](http://www.merapano.net/~satoshi/anthrop/class-md/environment/README.html)
 - ■ 開発と人類学 (circa 2002/2007) パンキョウ
