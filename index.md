@@ -42,8 +42,6 @@ layout: default
 
 - [人類学でコンピューターをつかう](computer_and_anthropology/README.html)
 
--->
-
 Github の人類学関連のリポジトリはほとんどが
 プライベートです。
 とりあえず非常に古いリポジトリを公開しましたので、
@@ -55,6 +53,8 @@ github pages (project) を以下に示します。
   [こちら](http://www.merapano.net/~satoshi/anthrop/class-md/sex_and_gender/)
   (クリックで www.merapano.net/ に移動します) 
 
+-->
+
 <!--
 - [環境主義と人類学 (EPUB)](environment/00BOOK.epub)
   + HTML 版は 
@@ -64,6 +64,7 @@ github pages (project) を以下に示します。
 
 人類学関連のディレクトリ、ファイルのインデックスは
 [ここ](anthrop-index.md) にあります。
+
 
 ## Youtube
 

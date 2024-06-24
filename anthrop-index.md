@@ -3,7 +3,7 @@ title: "講義録のインデックス"
 subtitle: ""
 author: "Satoshi Nakagawa"
 date: 2024-05-15
-updated: 2024-06-16
+updated: 2024-06-24
 spec: 
 memo: 
 filename: anthrop-index.md
@@ -78,7 +78,9 @@ nocite: |
 
 # 口頭発表
 
-- □ 民族誌篇 (paper-0-md)  [目次] [解説]
+- ■ 民族誌篇 (paper-0-md) 
+  [[目次]](http://www.merapano.net/~satoshi/anthrop/works/paper-0-md/index.html)
+  [[解説]](http://www.merapano.net/~satoshi/anthrop/works/paper-0-md/README.html)
 - □ 理論篇 (paper-1-md)  [目次] [解説]
 
 # References
