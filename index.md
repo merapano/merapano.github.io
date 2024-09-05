@@ -73,7 +73,7 @@ github pages (project) を以下に示します。
 以下をみてください。
 
 
-- [ユーチューブ](./youtube-index.html)作品集
+- [ユーチューブ](./youtube-index.md)作品集
 <!-- - [なかがわさとし論文集（その1）：民族誌篇](./paper-0-md/) -->
 <!-- - [timor-wiki](./timor-wiki/) ティモール島についての Wiki -->
 
