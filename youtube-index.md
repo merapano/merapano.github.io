@@ -104,10 +104,12 @@ documentclass: bxjsarticle
 
 ## ベクの認識論、レッダの存在論
 
-2020-08-09 東南アジア学会105回大会＠筑波大学での
+2023-08-09 東南アジア学会105回大会＠筑波大学での
 発表
 
-## Standing at the Crossroad: Two ways of knowledge transmission among the Ende, Indonesia
+## Standing at the Crossroad
+
+Standing at the Crossroad: Two ways of knowledge transmission among the Ende, Indonesia
 
 2024-07-28 A paper read at [ICAS-13](https://icas.asia/icas-13)
 
