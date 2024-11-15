@@ -41,7 +41,7 @@ layout: default
 タイトルです ---
 [「酸っぱくても飲み、腐っても食べる」](http://www.merapano.net/~satoshi/anthrop/works/paper-0-md/nirhu_minu.html)
 目次は
-[ここ](http://www.merapano.net/~satoshi/anthrop/works/paper-0-md/) にあります。
+[ここ](http://www.merapano.net/~satoshi/anthrop/works/paper-0-md/intro.html) にあります。
 
 # 人類学
 
