@@ -34,6 +34,15 @@ layout: default
 履歴やバイオを含めたより詳しい自己紹介は
 [ここ](aboutme.md)をクリックしてください。
 
+# WhatsNew
+
+2024-11-17 (Sun) に KAPAL 第6回研究大会で発表した
+原稿を `www.merapano.net` にアップロードしました。
+タイトルです ---
+[「酸っぱくても飲み、腐っても食べる」](http://www.merapano.net/~satoshi/anthrop/works/paper-0-md/nirhu_minu.html)
+目次は
+[ここ](http://www.merapano.net/~satoshi/anthrop/works/paper-0-md/) にあります。
+
 # 人類学
 
 ## Github Project Pages
