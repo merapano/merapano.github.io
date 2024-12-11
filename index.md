@@ -37,7 +37,7 @@ layout: default
 # WhatsNew
 
 2024-12-08 (Sun) に東南アジア学会で発表した原稿、
-[「千の唇、百の舌」](http://www.merapano.nett/~satoshi/anthrop/works/paper-0-md/wiwi_riwu.html) を
+[「千の唇、百の舌」](http://www.merapano.net/~satoshi/anthrop/works/paper-0-md/wiwi_riwu.html) を
 `www.merapano.net` にアップロードしました。
 目次は
 [ここ](http://www.merapano.net/~satoshi/anthrop/works/paper-0-md/intro.html) にあります。
