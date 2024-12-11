@@ -36,12 +36,18 @@ layout: default
 
 # WhatsNew
 
+2024-12-08 (Sun) に東南アジア学会で発表した原稿、
+[「千の唇、百の舌」](http://www.merapano.nett/~satoshi/anthrop/works/paper-0-md/wiwi_riwu.html) を
+`www.merapano.net` にアップロードしました。
+目次は
+[ここ](http://www.merapano.net/~satoshi/anthrop/works/paper-0-md/intro.html) にあります。
+
+
 2024-11-17 (Sun) に KAPAL 第6回研究大会で発表した
 原稿を `www.merapano.net` にアップロードしました。
 タイトルです ---
 [「酸っぱくても飲み、腐っても食べる」](http://www.merapano.net/~satoshi/anthrop/works/paper-0-md/nirhu_minu.html)
-目次は
-[ここ](http://www.merapano.net/~satoshi/anthrop/works/paper-0-md/intro.html) にあります。
+
 
 # 人類学
 
