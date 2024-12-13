@@ -23,9 +23,8 @@ layout: default
 |                 破落戸  |
 
 
-- @merapano.bsky.social (on Bluesky)
-- @merapano@mastodon.social (on Mastodon)
-- merapano@gmail.com
+- [@merapano.bsky.social](https://bsky.app/profile/merapano.bsky.social) (on Bluesky)
+- [@merapano@mastodon.social](https://mastodon.social/@merapano) (on Mastodon)
 
 # はじめに
 
