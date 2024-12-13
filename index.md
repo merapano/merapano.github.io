@@ -16,12 +16,16 @@ layout: default
 
 [RSS](feed.xml)
 
-|-----------------------:|
-| Independent Researcher |
-|            Gelandangan |
-|         Bee toro mobha |
-|                 破落戸 |
+|------------------------:|
+| Independent Researcher  |
+|            Gelandangan  |
+|         Bee toro mobha  |
+|                 破落戸  |
 
+
+- @merapano.bsky.social (on Bluesky)
+- @merapano@mastodon.social (on Mastodon)
+- merapano@gmail.com
 
 # はじめに
 
